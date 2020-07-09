@@ -1,0 +1,745 @@
+ body {
+	margin: 0;
+	padding: 0;
+  overflow:auto;
+ }
+ html body
+ {
+   overflow:initial !important;
+ }
+nav img:hover
+{
+  background-color: green;
+}
+ #background
+{
+	 left: 0px;
+	 top: 0px;
+	 position: relative;
+	 margin-left: auto;
+	 margin-right: auto;
+	 width: 1200px;
+	 height: 866px;
+	 overflow: hidden;
+	 z-index:0;
+	}
+
+ #Layer2
+{
+	 left: 121px;
+	 top: 0px;
+	 position: absolute;
+	 width: 980px;
+	 height: 165px;
+	 z-index:1;
+}
+
+ #TAPCHI
+{
+	 left: 207px;
+	 top: 35px;
+	 position: absolute;
+	 width: 133px;
+	 height: 50px;
+	 z-index:2;
+}
+
+ #layer_3
+{
+	 left: 234px;
+	 top: 85px;
+	 position: absolute;
+	 width: 8px;
+	 height: 8px;
+	 z-index:3;
+}
+
+ #layer_4
+{
+	 left: 333px;
+	 top: 0px;
+	 position: absolute;
+	 width: 17px;
+	 height: 34px;
+	 z-index:4;
+}
+
+ #Layer14
+{
+	 left: 346px;
+	 top: 37px;
+	 position: absolute;
+	 width: 179px;
+	 height: 105px;
+	 z-index:5;
+}
+
+ #HTML5
+{
+	 left: 372px;
+	 top: 63px;
+	 position: absolute;
+	 width: 126px;
+	 height: 54px;
+	 z-index:6;
+}
+
+ #CSS3
+{
+	 left: 526px;
+	 top: 63px;
+	 position: absolute;
+	 width: 138px;
+	 height: 55px;
+	 z-index:7;
+}
+
+ #Chuyensau
+{
+	 left: 144px;
+	 top: 92px;
+	 position: absolute;
+	 width: 199px;
+	 height: 62px;
+	 z-index:8;
+}
+
+ #layer_9
+{
+	 left: 230px;
+	 top: 94px;
+	 position: absolute;
+	 width: 18px;
+	 height: 12px;
+	 z-index:9;
+}
+
+ #layer_1
+{
+	 left: 303px;
+	 top: 94px;
+	 position: absolute;
+	 width: 18px;
+	 height: 12px;
+	 z-index:10;
+}
+
+ #Layer4
+{
+	 left: 121px;
+	 top: 165px;
+	 position: absolute;
+	 width: 980px;
+	 height: 35px;
+	 z-index:11;
+}
+
+ #TRANGCH
+{
+	 left: 144px;
+	 top: 174px;
+	 position: absolute;
+	 width: 72px;
+	 height: 14px;
+	 z-index:12;
+}
+
+ #HTML5COBN
+{
+	 left: 261px;
+	 top: 174px;
+	 position: absolute;
+	 width: 89px;
+	 height: 14px;
+	 z-index:13;
+}
+
+ #HTML5NNGCAO
+{
+	 left: 382px;
+	 top: 174px;
+	 position: absolute;
+	 width: 107px;
+	 height: 14px;
+	 z-index:14;
+}
+
+ #KTHUTHTML5
+{
+	 left: 512px;
+	 top: 174px;
+	 position: absolute;
+	 width: 104px;
+	 height: 16px;
+	 z-index:15;
+}
+
+ #TINTCHTML5
+{
+	 left: 642px;
+	 top: 174px;
+	 position: absolute;
+	 width: 96px;
+	 height: 14px;
+	 z-index:16;
+}
+
+ #LINH
+{
+	 left: 1041px;
+	 top: 174px;
+	 position: absolute;
+	 width: 46px;
+	 height: 16px;
+	 z-index:17;
+}
+
+ #ANGNHP
+{
+	 left: 929px;
+	 top: 174px;
+	 position: absolute;
+	 width: 72px;
+	 height: 16px;
+	 z-index:18;
+}
+
+ #ANGK
+{
+	 left: 798px;
+	 top: 174px;
+	 position: absolute;
+	 width: 55px;
+	 height: 16px;
+	 z-index:19;
+}
+
+ #Layer15
+{
+	 left: 122px;
+	 top: 152px;
+	 position: absolute;
+	 width: 978px;
+	 height: 1px;
+	 z-index:20;
+}
+
+ #Layer15copy
+{
+	 left: 122px;
+	 top: 186px;
+	 position: absolute;
+	 width: 978px;
+	 height: 1px;
+	 z-index:21;
+}
+
+ #Layer16
+{
+	 left: 223px;
+	 top: 165px;
+	 position: absolute;
+	 width: 24px;
+	 height: 40px;
+	 z-index:22;
+}
+
+ #Layer16copy
+{
+	 left: 354px;
+	 top: 165px;
+	 position: absolute;
+	 width: 24px;
+	 height: 40px;
+	 z-index:23;
+}
+
+ #Layer16copy2
+{
+	 left: 485px;
+	 top: 165px;
+	 position: absolute;
+	 width: 24px;
+	 height: 40px;
+	 z-index:24;
+}
+
+ #Layer16copy3
+{
+	 left: 616px;
+	 top: 165px;
+	 position: absolute;
+	 width: 24px;
+	 height: 40px;
+	 z-index:25;
+}
+
+ #Layer16copy4
+{
+	 left: 757px;
+	 top: 165px;
+	 position: absolute;
+	 width: 24px;
+	 height: 40px;
+	 z-index:26;
+}
+
+ #Layer16copy5
+{
+	 left: 878px;
+	 top: 165px;
+	 position: absolute;
+	 width: 24px;
+	 height: 40px;
+	 z-index:27;
+}
+
+ #Layer16copy6
+{
+	 left: 1009px;
+	 top: 165px;
+	 position: absolute;
+	 width: 24px;
+	 height: 40px;
+	 z-index:28;
+}
+
+ #Layer6
+{
+	 left: 121px;
+	 top: 200px;
+	 position: absolute;
+	 width: 980px;
+	 height: 666px;
+	 z-index:29;
+}
+
+ #Layer12
+{
+	 left: 745px;
+	 top: 210px;
+	 position: absolute;
+	 width: 346px;
+	 height: 536px;
+	 z-index:30;
+}
+
+ #REGISTER
+{
+	 left: 846px;
+	 top: 221px;
+	 position: absolute;
+	 width: 119px;
+	 height: 37px;
+	 z-index:31;
+}
+
+ #ChomngbndnvitpchH
+{
+	 left: 143px;
+	 top: 234px;
+	 position: absolute;
+	 width: 444px;
+	 height: 23px;
+	 z-index:32;
+}
+
+ #ThnhphnHTML5
+{
+	 left: 142px;
+	 top: 602px;
+	 position: absolute;
+	 width: 184px;
+	 height: 23px;
+	 z-index:33;
+}
+
+ #Tndangnhp
+{
+	 left: 184px;
+	 top: 281px;
+	 position: absolute;
+	 width: 86px;
+	 height: 12px;
+	 z-index:34;
+}
+
+ #Layer22
+{
+	 left: 284px;
+	 top: 274px;
+	 position: absolute;
+	 width: 341px;
+	 height: 26px;
+	 z-index:35;
+}
+
+ #Mtkhu
+{
+	 left: 218px;
+	 top: 321px;
+	 position: absolute;
+	 width: 52px;
+	 height: 13px;
+	 z-index:36;
+}
+
+ #Layer22copy
+{
+	 left: 284px;
+	 top: 315px;
+	 position: absolute;
+	 width: 341px;
+	 height: 26px;
+	 z-index:37;
+}
+
+ #Email
+{
+	 left: 241px;
+	 top: 363px;
+	 position: absolute;
+	 width: 29px;
+	 height: 10px;
+	 z-index:38;
+}
+
+ #Layer22copy2
+{
+	 left: 284px;
+	 top: 356px;
+	 position: absolute;
+	 width: 341px;
+	 height: 26px;
+	 z-index:39;
+}
+
+ #Thnhph
+{
+	 left: 208px;
+	 top: 404px;
+	 position: absolute;
+	 width: 62px;
+	 height: 12px;
+	 z-index:40;
+}
+
+ #Layer22copy3
+{
+	 left: 284px;
+	 top: 397px;
+	 position: absolute;
+	 width: 341px;
+	 height: 26px;
+	 z-index:41;
+}
+
+ #tuitrungbnh
+{
+	 left: 167px;
+	 top: 444px;
+	 position: absolute;
+	 width: 103px;
+	 height: 13px;
+	 z-index:42;
+}
+
+ #Layer25
+{
+	 left: 285px;
+	 top: 450px;
+	 position: absolute;
+	 width: 340px;
+	 height: 1px;
+	 z-index:43;
+}
+
+ #Layer26
+{
+	 left: 285px;
+	 top: 442px;
+	 position: absolute;
+	 width: 340px;
+	 height: 12px;
+	 z-index:44;
+}
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 25px;
+  background: #EEEEEE;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  background: black;
+  cursor: default;
+}
+
+ #Layer24
+{
+	 left: 533px;
+	 top: 579px;
+	 position: absolute;
+	 width: 92px;
+	 height: 24px;
+	 z-index:45;
+}
+
+ #Layer24copy
+{
+	 left: 432px;
+	 top: 579px;
+	 position: absolute;
+	 width: 92px;
+	 height: 24px;
+	 z-index:46;
+}
+
+ #angk
+{
+	 left: 553px;
+	 top: 584px;
+	 position: absolute;
+	 width: 51px;
+	 height: 15px;
+	 z-index:47;
+}
+
+ #Lmli
+{
+	 left: 458px;
+	 top: 584px;
+	 position: absolute;
+	 width: 40px;
+	 height: 14px;
+	 z-index:48;
+}
+
+ #Bnmuntheodibivittc
+{
+	 left: 184px;
+	 top: 494px;
+	 position: absolute;
+	 width: 236px;
+	 height: 12px;
+	 z-index:49;
+}
+
+ #HTML5cobn
+{
+	 left: 306px;
+	 top: 522px;
+	 position: absolute;
+	 width: 78px;
+	 height: 10px;
+	 z-index:50;
+}
+
+ #HTML5nngcao
+{
+	 left: 306px;
+	 top: 543px;
+	 position: absolute;
+	 width: 91px;
+	 height: 12px;
+	 z-index:51;
+}
+
+ #Layer23
+{
+	 left: 284px;
+	 top: 522px;
+	 position: absolute;
+	 width: 12px;
+	 height: 12px;
+	 z-index:52;
+}
+
+ #Layer23copy
+{
+	 left: 284px;
+	 top: 543px;
+	 position: absolute;
+	 width: 12px;
+	 height: 12px;
+	 z-index:53;
+}
+
+ #CSS3cobn
+{
+	 left: 511px;
+	 top: 522px;
+	 position: absolute;
+	 width: 68px;
+	 height: 10px;
+	 z-index:54;
+}
+
+ #CSS3nngcao
+{
+	 left: 511px;
+	 top: 543px;
+	 position: absolute;
+	 width: 81px;
+	 height: 12px;
+	 z-index:55;
+}
+
+ #Layer23copy2
+{
+	 left: 493px;
+	 top: 522px;
+	 position: absolute;
+	 width: 12px;
+	 height: 12px;
+	 z-index:56;
+}
+
+ #Layer23copy3
+{
+	 left: 493px;
+	 top: 543px;
+	 position: absolute;
+	 width: 12px;
+	 height: 12px;
+	 z-index:57;
+}
+
+ #Layer17
+{
+	 left: 144px;
+	 top: 256px;
+	 position: absolute;
+	 width: 592px;
+	 height: 1px;
+	 z-index:58;
+}
+
+ #Layer17copy
+{
+	 left: 144px;
+	 top: 627px;
+	 position: absolute;
+	 width: 592px;
+	 height: 1px;
+	 z-index:59;
+}
+
+ #Layer17copy2
+{
+	 left: 144px;
+	 top: 744px;
+	 position: absolute;
+	 width: 592px;
+	 height: 1px;
+	 z-index:60;
+}
+
+ #Layer18
+{
+	 left: 162px;
+	 top: 645px;
+	 position: absolute;
+	 width: 72px;
+	 height: 65px;
+	 z-index:61;
+}
+
+ #EFFECTS
+{
+	 left: 173px;
+	 top: 714px;
+	 position: absolute;
+	 width: 51px;
+	 height: 19px;
+	 z-index:62;
+}
+
+ #CONNECTIVITY
+{
+	 left: 303px;
+	 top: 714px;
+	 position: absolute;
+	 width: 91px;
+	 height: 19px;
+	 z-index:63;
+}
+
+ #MULTIMEDIA
+{
+	 left: 468px;
+	 top: 714px;
+	 position: absolute;
+	 width: 82px;
+	 height: 19px;
+	 z-index:64;
+}
+
+ #OFFLINESTORAGE
+{
+	 left: 615px;
+	 top: 714px;
+	 position: absolute;
+	 width: 112px;
+	 height: 19px;
+	 z-index:65;
+}
+
+ #Layer19
+{
+	 left: 311px;
+	 top: 649px;
+	 position: absolute;
+	 width: 77px;
+	 height: 58px;
+	 z-index:66;
+}
+
+ #Layer21
+{
+	 left: 638px;
+	 top: 648px;
+	 position: absolute;
+	 width: 67px;
+	 height: 59px;
+	 z-index:67;
+}
+
+ #Layer20
+{
+	 left: 471px;
+	 top: 650px;
+	 position: absolute;
+	 width: 75px;
+	 height: 57px;
+	 z-index:68;
+}
+
+ #Layer13
+{
+	 left: 121px;
+	 top: 777px;
+	 position: absolute;
+	 width: 980px;
+	 height: 1px;
+	 z-index:69;
+}
+
+ #yltrangwebphcvvict
+{
+	 left: 416px;
+	 top: 795px;
+	 position: absolute;
+	 width: 391px;
+	 height: 26px;
+	 z-index:70;
+}
